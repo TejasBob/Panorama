@@ -3,7 +3,7 @@ To run the demo  enter:
     
     $ python test.py --choice <1-5>
 
-Result image will be saved in same directory as test.py with name "note_[opencv_version]_[choice].jpg". Also key frames used for stitching will be stored under "key-frames" directory. 
+Result image will be saved in result directory with name "note_[opencv_version]_[choice].jpg". Also key frames used for stitching will be stored under "key-frames" directory. 
 The choice parameter is for selecting particular pair of feature detector and descriptor.
 
 Here's the table:
