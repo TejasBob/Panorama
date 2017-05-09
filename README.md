@@ -5,12 +5,12 @@ Result image will be saved in same directory as test.py with name "note_[opencv_
 The choice parameter is for selecting particular pair of feature detector and descriptor.
 
 Here's the table:
-Choice 	Feature detector 	Feature Descriptor 		Note
-    1			SIFT 				SIFT 				-
-    2 			SURF 				SURF 				Without Upright
-	3			SURF 				SURF 				With Upright
- 	4 			STAR 				BRIEF 				-
- 	5 			ORB 				ORB 				-
+Choice 	Feature detector 	Feature Descriptor 	      Note
+    1		SIFT 			SIFT 			-
+    2 		SURF 			SURF 			Without Upright
+    3		SURF 			SURF 			With Upright
+    4 		STAR 			BRIEF 			-
+    5 		ORB 			ORB 			-
  	
  For e.g.
  To run demo with SIFT detector and descriptor use:
