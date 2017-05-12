@@ -28,4 +28,39 @@ In order to run this demo your system must have following packages:
     Numpy(1.11.3)
     Matplotlib(2.0.0)
  
+**Key Frames**
  
+ <p>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/0.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/1.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/2.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/3.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/4.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/5.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/6.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/7.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/8.jpg" width="150"/>
+  <img src="https://github.com/TejasBob/Panorama/blob/master/key-frames/9.jpg" width="150"/>
+<br/><br/><br/>
+
+
+
+
+**Stitching Results Based On User's Choice <1-5>** 
+
+<p>
+<img src="https://github.com/TejasBob/Panorama/blob/master/result/note_3_1.jpg" width="640"  />
+</p>
+<p>
+<img src="https://github.com/TejasBob/Panorama/blob/master/result/note_3_2.jpg" width="640"  />
+</p>
+<p>
+<img src="https://github.com/TejasBob/Panorama/blob/master/result/note_3_3.jpg" width="640"  />
+</p>
+<p>
+<img src="https://github.com/TejasBob/Panorama/blob/master/result/note_3_4.jpg" width="640"  />
+</p>
+<p>
+<img src="https://github.com/TejasBob/Panorama/blob/master/result/note_3_5.jpg" width="640"  />
+</p>
+
